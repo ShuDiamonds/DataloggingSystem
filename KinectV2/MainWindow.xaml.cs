@@ -33,24 +33,31 @@ namespace KinectV2
 
 
             #region FFTの関係の初期化
-            /*
-            for (int i = 0; i < WaveIn.DeviceCount; i++)
+            try
             {
-                var deviceInfo = WaveIn.GetCapabilities(i);
-                Console.WriteLine(String.Format("Audio Device {0}: {1}, {2} channels",
-                    i, deviceInfo.ProductName, deviceInfo.Channels));
+
+                /*
+                for (int i = 0; i < WaveIn.DeviceCount; i++)
+                {
+                    var deviceInfo = WaveIn.GetCapabilities(i);
+                    Console.WriteLine(String.Format("Audio Device {0}: {1}, {2} channels",
+                        i, deviceInfo.ProductName, deviceInfo.Channels));
+                }
+
+
+                WaveIn waveIn = new WaveIn()
+                {
+                    //ここでマイクの選択
+                    DeviceNumber = 0, // Default
+                };
+                waveIn.DataAvailable += WaveIn_DataAvailable;
+                waveIn.WaveFormat = new WaveFormat(sampleRate: fs, channels: 1);
+                waveIn.StartRecording();
+                */
+            }catch(InvalidCastException e)
+            {
+
             }
-
-
-            WaveIn waveIn = new WaveIn()
-            {
-                //ここでマイクの選択
-                DeviceNumber = 0, // Default
-            };
-            waveIn.DataAvailable += WaveIn_DataAvailable;
-            waveIn.WaveFormat = new WaveFormat(sampleRate: fs, channels: 1);
-            waveIn.StartRecording();
-            */
             #endregion
 
 
