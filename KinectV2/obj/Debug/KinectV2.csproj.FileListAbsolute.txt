@@ -1,0 +1,350 @@
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\K4W2-Book-master\K4W2-Book-master\C#(Managed)\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban2\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban3\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban4\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban5\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban6\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban7\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\bin\Debug\NAudio.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban8\KinectV2\bin\Debug\NAudio.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\bin\Debug\NAudio.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\bin\Debug\NAudio.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\bin\Debug\NAudio.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\bin\Debug\NAudio.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban9 - コピー\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\bin\Debug\NAudio.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\bin\Debug\NAudio.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban10\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\bin\Debug\NAudio.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\bin\Debug\NAudio.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban11\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\bin\Debug\NAudio.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\bin\Debug\NAudio.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban12\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\bin\Debug\NAudio.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\bin\Debug\NAudio.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban14\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\bin\Debug\NAudio.dll
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\KinectV2-HDFace-01 -raban15\KinectV2\bin\Debug\NAudio.xml
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\obj\Debug\KinectV2.csprojResolveAssemblyReference.cache
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\obj\Debug\MainWindow.baml
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\obj\Debug\MainWindow.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\obj\Debug\App.g.cs
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\obj\Debug\KinectV2_MarkupCompile.cache
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\obj\Debug\KinectV2.g.resources
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\obj\Debug\KinectV2.Properties.Resources.resources
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\obj\Debug\KinectV2.csproj.GenerateResource.Cache
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\obj\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\obj\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\bin\Debug\KinectV2.exe.config
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\bin\Debug\KinectV2.exe
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\bin\Debug\KinectV2.pdb
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\bin\Debug\MathNet.Numerics.dll
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\bin\Debug\NAudio.dll
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\bin\Debug\MathNet.Numerics.xml
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\fukuda\Desktop\11_HDFace\PCandChair\KinectV2\bin\Debug\NAudio.xml
